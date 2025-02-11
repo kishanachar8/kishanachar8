@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm an enthusiastic software developer with a pass
 ## 🚀 About Me  
 - 👨‍💻 I’m currently working on exciting web development projects.  
 - 🌱 Continuously learning advanced web technologies.  
-- 💬 Ask me about **JavaScript**, **React**, or **Express.js**.  
+- 💬 Ask me about **JavaScript**, **React.js**,**Node.js** or **Express.js**.  
 - 📫 Reach me at: [kishanachar8@gmail.com](mailto:kishanachar8@gmail.com)  
 - ⚡ Fun fact: I love exploring new places and trying out different cuisines.  
 
