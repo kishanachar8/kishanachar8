@@ -39,7 +39,6 @@ Welcome to my GitHub profile! I'm an enthusiastic software developer with a pass
 ## 📈 GitHub Stats  
 ![Kishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishanachar8&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishanachar8&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kishanachar8&theme=radical)  
 
 ---
 
