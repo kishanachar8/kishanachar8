@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm an enthusiastic software developer with a pass
 - **Languages:** JavaScript, Java
 - **Frameworks and Libraries:** React, Node.js, Express.js
 - **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools:** Git
+- **Tools:** Git, Postman, Jira, Bitbucket
 
 ## 📈 GitHub Stats
 ![Kishan Achar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishanachar8&show_icons=true&theme=radical)
