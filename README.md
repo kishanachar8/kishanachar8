@@ -1,75 +1,179 @@
-# Hi there, I'm Kishan Kumar! 👋
+# Hi 👋, I'm Kishan Kumar
 
-Welcome to my GitHub profile! I'm an enthusiastic software developer with a passion for creating innovative solutions and learning new technologies.
+<h3 align="center">Full Stack Developer | MERN Stack Developer | Backend Enthusiast</h3>
+
+<p align="center">
+  <a href="https://github.com/kishanachar8">
+    <img src="https://komarev.com/ghpvc/?username=kishanachar8&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 Currently working on exciting web development projects
-- 🌱 Continuously learning advanced web technologies
-- 💬 Ask me about **JavaScript**, **React.js**, **Node.js**, or **Express.js**
-- 📫 Reach me at: [kishanachar8@gmail.com](mailto:kishanachar8@gmail.com)
+* 💼 Full Stack Developer with **3 years of experience**
+* 🔭 Building scalable and secure web applications using the **MERN Stack**
+* 🌱 Currently learning **Next.js, Docker, System Design, and AI Integrations**
+* 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB, PostgreSQL**
+* 📫 Reach me at: **[kishanachar8@gmail.com](mailto:kishanachar8@gmail.com)**
+* ⚡ Fun Fact: I enjoy building automation tools and solving complex backend challenges
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/kishan-kumar-6a88962b8/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+<a href="mailto:kishanachar8@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+### Languages
 
-### 📚 Frameworks & Libraries
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
-### 💾 Databases
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-### ⚙️ Tools
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishanachar8&show_icons=true&theme=radical" alt="Kishan's GitHub Stats" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,java,html,css" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanachar8&layout=compact&theme=radical" alt="Top Languages" />
+### Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishanachar8&theme=radical" alt="GitHub Streak" />
+### Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,postman,jira,bitbucket,vscode" />
 </p>
 
 ---
 
-## 🌟 Recent Projects
+## 📊 GitHub Statistics
 
-- [Ecommerce Website](https://github.com/kishanachar8/Ecommerce) — Full-stack eCommerce web application
-- [Reusable Navbars](https://github.com/kishanachar8/react-reusable-navbar) — Highly customizable reusable navbars for React
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kishanachar8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanachar8&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishanachar8&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kishanachar8&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kishanachar8&theme=tokyonight" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kishanachar8&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kishanachar8&theme=tokyonight&utcOffset=5.5" width="49%" />
+</p>
 
 ---
 
-## 📫 Connect with Me
+## 🏆 GitHub Trophies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishan-kumar-6a88962b8/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishanachar8@gmail.com)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kishanachar8&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishanachar8&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🛒 Ecommerce Website
+
+Full-stack eCommerce application featuring:
+
+* User Authentication
+* Product Management
+* Cart & Checkout
+* Order Tracking
+* Responsive UI
+
+🔗 Repository:
+https://github.com/kishanachar8/Ecommerce
+
+---
+
+### ⚛️ React Reusable Navbar
+
+Reusable and customizable navbar package for React applications.
+
+Features:
+
+* Responsive Design
+* Easy Configuration
+* Reusable Components
+
+🔗 Repository:
+https://github.com/kishanachar8/react-reusable-navbar
+
+---
+
+### 🤖 CareerSync
+
+AI-powered Job Application Automation Platform.
+
+Features:
+
+* Resume Parsing
+* AI Job Matching
+* Automated Applications
+* Analytics Dashboard
+
+---
+
+## 📈 Current Focus
+
+```text
+✔ MERN Stack Development
+✔ Backend Architecture
+✔ REST API Design
+✔ Authentication & Authorization
+✔ Docker
+✔ Next.js
+✔ System Design
+✔ AI Integrations
+```
+
+---
+
+## 💡 Quote
+
+> "First, solve the problem. Then, write the code."
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kishanachar8&style=for-the-badge&color=blueviolet" alt="Visitor Count" />
+  <b>Thanks for visiting my profile! 🚀</b>
 </p>
