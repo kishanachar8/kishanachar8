@@ -85,10 +85,6 @@ I build scalable, secure web applications and enjoy solving complex backend chal
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=kishanachar8&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishanachar8&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </div>
 
