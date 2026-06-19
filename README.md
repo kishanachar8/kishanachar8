@@ -85,7 +85,7 @@ I build scalable, secure web applications and enjoy solving complex backend chal
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kishanachar8&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" alt="Trophies"/>
+<img src="https://streak-stats.demolab.com/?user=kishanachar8&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
