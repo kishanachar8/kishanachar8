@@ -1,179 +1,114 @@
+<div align="center">
+
 # Hi 👋, I'm Kishan Kumar
 
-<h3 align="center">Full Stack Developer | MERN Stack Developer | Backend Enthusiast</h3>
+### Full Stack Developer · MERN Specialist · Backend Enthusiast
 
-<p align="center">
+I build scalable, secure web applications and enjoy solving complex backend challenges.
+
+<p>
+  <a href="https://www.linkedin.com/in/kishan-kumar-6a88962b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kishanachar8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   <a href="https://github.com/kishanachar8">
     <img src="https://komarev.com/ghpvc/?username=kishanachar8&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   </a>
 </p>
 
+</div>
+
 ---
 
 ## 🚀 About Me
 
-* 💼 Full Stack Developer with **3 years of experience**
-* 🔭 Building scalable and secure web applications using the **MERN Stack**
-* 🌱 Currently learning **Next.js, Docker, System Design, and AI Integrations**
-* 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB, PostgreSQL**
-* 📫 Reach me at: **[kishanachar8@gmail.com](mailto:kishanachar8@gmail.com)**
-* ⚡ Fun Fact: I enjoy building automation tools and solving complex backend challenges
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/kishan-kumar-6a88962b8/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-<a href="mailto:kishanachar8@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
-</p>
+- 💼 Full Stack Developer with **3 years of experience** building production web apps
+- 🔭 Focused on scalable, secure applications using the **MERN stack**
+- 🌱 Currently leveling up on **Next.js, Docker, System Design, and AI integrations**
+- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, and PostgreSQL**
+- ⚡ I love building automation tools and untangling tricky backend problems
+- 📫 Reach me at **kishanachar8@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,java,html,css" />
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,html,css" alt="Languages"/>
 </p>
 
-### Frontend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap" />
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap" alt="Frontend"/>
 </p>
 
-### Backend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"/>
 </p>
 
-### Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases"/>
 </p>
 
-### Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,postman,jira,bitbucket,vscode" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kishanachar8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanachar8&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishanachar8&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kishanachar8&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kishanachar8&theme=tokyonight" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kishanachar8&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kishanachar8&theme=tokyonight&utcOffset=5.5" width="49%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kishanachar8&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishanachar8&theme=tokyo-night&hide_border=true" />
+**Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,jira,bitbucket,vscode" alt="Tools"/>
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🛒 Ecommerce Website
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| 🛒 **E-Commerce Platform** | Full-stack store with auth, product management, cart & checkout, and order tracking | MERN | [Repo](https://github.com/kishanachar8/Ecommerce) |
+| 👷 **Engineer Resource Manager** | Allocate and track engineers across projects, with availability and workload visibility | MERN | [Repo](https://github.com/kishanachar8/engineer-resource-manager) |
+| 🤖 **CareerSync** | AI-powered job application automation: resume parsing, AI matching, auto-apply & analytics | MERN · AI | [Repo](https://github.com/kishanachar8/CareerSync) |
+| 💳 **CrediFlow** | Credit and loan management system handling applications, approvals, and repayment tracking | MERN | [Repo](https://github.com/kishanachar8/CrediFlow) |
 
-Full-stack eCommerce application featuring:
-
-* User Authentication
-* Product Management
-* Cart & Checkout
-* Order Tracking
-* Responsive UI
-
-🔗 Repository:
-https://github.com/kishanachar8/Ecommerce
+> ⚠️ Update the repo links above (CareerSync, Engineer Resource Manager, CrediFlow) to your actual repository URLs.
 
 ---
 
-### ⚛️ React Reusable Navbar
+## 📊 GitHub Stats
 
-Reusable and customizable navbar package for React applications.
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kishanachar8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishanachar8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
 
-Features:
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishanachar8&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-* Responsive Design
-* Easy Configuration
-* Reusable Components
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kishanachar8&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+</div>
 
-🔗 Repository:
-https://github.com/kishanachar8/react-reusable-navbar
-
----
-
-### 🤖 CareerSync
-
-AI-powered Job Application Automation Platform.
-
-Features:
-
-* Resume Parsing
-* AI Job Matching
-* Automated Applications
-* Analytics Dashboard
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishanachar8&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</div>
 
 ---
 
 ## 📈 Current Focus
 
-```text
-✔ MERN Stack Development
-✔ Backend Architecture
-✔ REST API Design
-✔ Authentication & Authorization
-✔ Docker
-✔ Next.js
-✔ System Design
-✔ AI Integrations
-```
+- MERN stack development & backend architecture
+- REST API design, authentication & authorization
+- Docker, Next.js, and system design
+- AI integrations
 
 ---
 
-## 💡 Quote
+<div align="center">
 
-> "First, solve the problem. Then, write the code."
+> *"First, solve the problem. Then, write the code."*
 
----
+**Thanks for visiting — let's build something great! 🚀**
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+</div>
