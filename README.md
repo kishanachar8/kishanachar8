@@ -67,7 +67,7 @@ I build scalable, secure web applications and enjoy solving complex backend chal
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
 | 🛒 **E-Commerce Platform** | Full-stack store with auth, product management, cart & checkout, and order tracking | MERN | [Repo](https://github.com/kishanachar8/Ecommerce) |
-| 👷 **Engineer Resource Manager** | Allocate and track engineers across projects, with availability and workload visibility | MERN | [Repo](https://github.com/kishanachar8/engineer-resource-manager) |
+| 👷 **Engineer Resource Manager** | Allocate and track engineers across projects, with availability and workload visibility | MERN | [Repo](https://github.com/kishanachar8/EngineerResourceManager) |
 | 🤖 **CareerSync** | AI-powered job application automation: resume parsing, AI matching, auto-apply & analytics | MERN · AI | [Repo](https://github.com/kishanachar8/CareerSync) |
 | 💳 **CrediFlow** | Credit and loan management system handling applications, approvals, and repayment tracking | MERN | [Repo](https://github.com/kishanachar8/CrediFlow) |
 
