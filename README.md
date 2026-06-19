@@ -70,7 +70,6 @@ I build scalable, secure web applications and enjoy solving complex backend chal
 | 🤖 **CareerSync** | AI-powered job application automation: resume parsing, AI matching, auto-apply & analytics | MERN · AI | [Repo](https://github.com/kishanachar8/CareerSync) |
 | 💳 **CrediFlow** | Credit and loan management system handling applications, approvals, and repayment tracking | MERN | [Repo](https://github.com/kishanachar8/CrediFlow) |
 
-> ⚠️ Update the repo links above (CareerSync, Engineer Resource Manager, CrediFlow) to your actual repository URLs.
 
 ---
 
@@ -86,7 +85,7 @@ I build scalable, secure web applications and enjoy solving complex backend chal
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kishanachar8&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kishanachar8&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" alt="Trophies"/>
 </div>
 
 <div align="center">
