@@ -14,8 +14,8 @@ I build scalable, secure web applications and enjoy solving complex backend chal
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/kishanachar8">
-    <img src="https://komarev.com/ghpvc/?username=kishanachar8&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=kishanachar8&label=Profile+Views&color=0e75b6&style=for-the-badge&base=100" alt="Profile Views"/>
+</a>
 </p>
 
 </div>
